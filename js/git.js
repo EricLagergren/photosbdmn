@@ -1,4 +1,13 @@
+$("#rep0").repo({
+    user: "EricLagerg",
+    name: "cidr-javascript",
+    branch: "gh-pages"
+});
 $("#repo").repo({
+    user: "EricLagerg",
+    name: "mytemplate"
+});
+$("#repo1").repo({
     user: "EricLagerg",
     name: "autowget"
 });
